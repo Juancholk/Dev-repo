@@ -22,3 +22,6 @@ h1{
 .content span{
     color: brown;
 }
+.content.map{
+    color: red;
+}
