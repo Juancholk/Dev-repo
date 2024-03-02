@@ -1,0 +1,24 @@
+body{
+    background-color: #00ffff;
+
+}
+p{
+    font-weight: 900;
+    font-size: 40px;
+    text-decoration: underline;
+}
+h1{
+    font-size: 5em;
+    font-weight: 900;
+    color: rgba(150, 25, 255, 0.8);
+}
+#main-title{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+.content{
+    float: right;
+}
+.content span{
+    color: brown;
+}
