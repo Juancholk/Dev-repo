@@ -4,7 +4,8 @@
   "description": "El primer proyecto de nodejs solo",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Juancholk/Dev-repo/issues"
   },
-  "homepage": "https://github.com/Juancholk/Dev-repo#readme"
+  "homepage": "https://github.com/Juancholk/Dev-repo#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  }
 }
